@@ -13,3 +13,7 @@ print 'hello world'
 ```
 hello world
 ```
+- [X] Be handsome
+- [X] Be Alpha
+- [X] Always learning
+- [ ] Don't forget to water the plants
